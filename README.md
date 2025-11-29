@@ -30,9 +30,9 @@ cd backend
 
 # Create a virtual environment (Python 3.10+ recommended)
 # Windows:
-py -3.10 -m venv venv
+python -m venv venv
 # Linux/Mac:
-python3.10 -m venv venv
+python -m venv venv
 
 # Activate the virtual environment
 # Windows:
