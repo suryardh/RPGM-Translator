@@ -1,6 +1,6 @@
 # RPG Maker AI Translator
 
-A full-stack application designed to automate the translation of RPG Maker MV/MZ games using the Google Gemini API. This tool processes game files, preserves game code integrity, and generates `.rga` patch files compatible with JoiPlay (Android) and PC.
+A full-stack application designed to automate the translation of RPG Maker MV/MZ games using the Google Gemini API. This tool processes game files, preserves game code integrity, and generates `.zip` patch files compatible with JoiPlay (Android) and PC.
 
 ## Project Architecture
 
