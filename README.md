@@ -108,7 +108,7 @@ If you have configured `nodeenv` inside your Python virtual environment:
 3.  **Translate:** Start the process. The tool will batch requests to Gemini to respect rate limits.
 4.  **Review:** Monitor logs in the console. Errors or anomalies will be flagged.
 5.  **Edit (Optional):** Open the Review modal to manually correct specific lines.
-6.  **Download:** Download the generated `.rga` file and apply it to the game via JoiPlay.
+6.  **Download:** Download the generated `.zip` file and apply it to the game via JoiPlay.
 
 ## License
 
